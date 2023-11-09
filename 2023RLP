@@ -461,9 +461,10 @@ http://138.59.177.34:8000/play/a02n/index.m3u8
 http://181.189.243.217:8000/play/a0ps/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS",DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/500px-Logo_TVE-24h.svg.png" group-title="NOTICIAS",RTVE 24H
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png" group-title="NOTICIAS",EURONEWS
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-
+https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?id=OIF.c7sVTY%2ftYOgtIzJ1WBJP%2fA&pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",INDESTRUCTIBLES 4
 https://www.polimorhdd.online/stuff/indestructibles.mp4
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.cgLEeaoM1ZMG0_fheGXMiwHaEK?pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",URI: FUERZAS ESPECIALES  
