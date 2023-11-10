@@ -2,8 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" group-title="TV Venezuela",TELEVEN
 https://setp-televen-ssai-mslv4-open.akamaized.net/event1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/La_Tele_Tuya#/media/Archivo:LOGO-HORIZONTAL_text.png" group-title="TV Venezuela",TELE TUYA
-https://www.dailymotion.com/cdn/live/video/x8my9op.m3u8?sec=AFi9C8LxgB-kovhW7apE3-FqIfQ2e0kvusF_90uV8YBcQjvv0nYqYWyY0xfGXWCJ&dmTs=581075&dmV1st=dcd756f4-fd98-463b-b613-5449425bde08
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LOGO-HORIZONTAL_text.png" group-title="TV Venezuela",TELE TUYA
+https://www.dailymotion.com/embed/video/x8mgzgn
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/512px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="TV Venezuela",VENEVISIÓN
 https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="TV Venezuela",VE PLUS
@@ -465,6 +465,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png" group-title="NOTICIAS",EURONEWS
 https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="NOTICIAS",FRANCE 24 EN ESPAÑOL
+https://www.youtube.com/c/FRANCE24Espanol/live
+
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?id=OIF.c7sVTY%2ftYOgtIzJ1WBJP%2fA&pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",INDESTRUCTIBLES 4
 https://www.polimorhdd.online/stuff/indestructibles.mp4
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.cgLEeaoM1ZMG0_fheGXMiwHaEK?pid=ImgDet&rs=1" group-title="MOVIES ESTRENOS HD",URI: FUERZAS ESPECIALES  
