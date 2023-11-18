@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" group-title="TV Venezuela",TELEVEN
 https://tlv01-tlvnvino.delivery.fuugo.com/ngrp:tlv01-Envivo01-01c7a981_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LOGO-HORIZONTAL_text.png" group-title="TV Venezuela",TELE TUYA
-http://magmas5.com:8000/live/impejol2022/VJIUZWQ5G9/159391.ts
+https://www.dailymotion.com/cdn/live/video/x8mgzgn.m3u8?sec=jX37_OHp7igQL1WIEWUPDHMLiGe14E7stiFC3pbKa4Ddf5uuz2lD5iaqznOJVPpc&dmTs=25979&dmV1st=4c0c9b95-f177-45e1-90a4-c2e7edcce8ea
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/512px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="TV Venezuela",VENEVISIÓN
 https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="TV Venezuela",VE PLUS
