@@ -4,6 +4,8 @@
 https://setp-televen-ssai-mslv4-open.akamaized.net/event1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LOGO-HORIZONTAL_text.png" group-title="TV Venezuela",TELE TUYA
 http://magmas5.com:8000/live/impejol2022/VJIUZWQ5G9/159391.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/IVC_Network_Logo.png" group-title="TV Venezuela",IVC NETWORK
+https://stream.srv.econocable.i.mtvreg.com/stream.m3u8?content-id=channel%3AIVCNETWORKS&content-expiration=1699373940&user-id=1642591434&device-id=535683365&device-type=web&signature-ip=190.235.160.112&stream-quality=20&stream-format=m3u8&player-capabilities=adaptive2%2Cwebvtt%2Cvast%2Cclientvast&drm-system=&parallel-limit=1&lang=es&signature-expiration=1699373940&signature-hash=08a6674993264c57217992f926e617c53fbab592f415b6d96a544cb01d579c2f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/512px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="TV Venezuela",VENEVISIÓN
 https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="TV Venezuela",VE PLUS
