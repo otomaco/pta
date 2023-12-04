@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" group-title="TV Venezuela",TELEVEN
-https://setp-televen-ssai-mslv4-open.akamaized.net/event1/index.m3u8
+https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LOGO-HORIZONTAL_text.png" group-title="TV Venezuela",TELE TUYA
 http://magmas5.com:8000/live/impejol2022/VJIUZWQ5G9/159391.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/IVC_Network_Logo.png" group-title="TV Venezuela",IVC NETWORK
@@ -15,7 +15,7 @@ https://novelisima-ottera.akamaized.net/hls/live/2093267/NOVELISIMA_OTTERA/maste
 #EXTINF:-1 tvg-logo="https://frankly-vod.akamaized.net/venevision/uploaded/883c23e5-b267-4c52-b1d2-9f744dac6cb6.png" group-title="TV Venezuela",MÁS TALK
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="TV Venezuela",VPI TV
-https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+https://ythls.armelin.one/channel/UCVFiIRuxJ2GmJLUkHmlmj4w.m3u8
 #EXTINF:-1 tvg-logo="https://evtv.online/wp-content/uploads/2018/03/evtv-logo1.png" group-title="TV Venezuela",EVTV
 https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf70ff0208230e6fa803b88b95013fad257c025e481e2be3e214/evtv1/evtv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v6nRdxQ.png" group-title="TV Venezuela",GLOBOVISIÓN
